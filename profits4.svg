@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="131" viewBox="0 0 170 131">
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <rect width="169" height="130" x=".5" y=".5" stroke="#D8DEED" rx="6.69"/>
+            <rect width="4" height="40" x="89" y="77" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 182 0)"/>
+            <rect width="4" height="39" x="81" y="78" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 166 0)"/>
+            <rect width="4" height="38" x="73" y="79" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 150 0)"/>
+            <rect width="4" height="36" x="65" y="81" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 134 0)"/>
+            <rect width="4" height="35" x="57" y="82" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 118 0)"/>
+            <rect width="4" height="32" x="48" y="85" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 100 0)"/>
+            <rect width="4" height="31" x="40" y="86" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 84 0)"/>
+            <rect width="4" height="28" x="32" y="89" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 68 0)"/>
+            <rect width="4" height="24" x="24" y="93" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 52 0)"/>
+            <rect width="4" height="67" x="138" y="50" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 280 0)"/>
+            <rect width="4" height="72" x="146" y="45" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 296 0)"/>
+            <rect width="4" height="54" x="130" y="63" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 264 0)"/>
+            <rect width="4" height="50" x="122" y="67" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 248 0)"/>
+            <rect width="4" height="48" x="114" y="69" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 232 0)"/>
+            <rect width="4" height="45" x="106" y="72" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 216 0)"/>
+            <rect width="4" height="41" x="97" y="76" fill="#D8DEED" rx="1.286" transform="matrix(-1 0 0 1 198 0)"/>
+        </g>
+        <path fill="#979DAE" fill-rule="nonzero" d="M0 6.698C0 2.998 2.987 0 6.69 0h156.62A6.69 6.69 0 0 1 170 6.698v8.081H0V6.698z"/>
+        <path fill-rule="nonzero" stroke="#D8DEED" stroke-width="4" d="M23.339 75l30.085-3 39.412-10 26.69-10.646 28.262-21.523"/>
+        <ellipse cx="51.778" cy="72.795" fill="#FFAB00" rx="4.778" ry="4.795"/>
+        <ellipse cx="25.778" cy="74.795" fill="#FFAB00" rx="4.778" ry="4.795"/>
+        <ellipse cx="91.778" cy="60.795" fill="#FFAB00" rx="4.778" ry="4.795"/>
+        <ellipse cx="119.778" cy="50.795" fill="#FFAB00" rx="4.778" ry="4.795"/>
+        <ellipse cx="146.778" cy="29.795" fill="#36B37E" rx="4.778" ry="4.795"/>
+    </g>
+</svg>
